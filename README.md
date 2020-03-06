@@ -7,7 +7,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to inst
 
 ```bash
 
-git clone https://github.com/skp121/Sms-Bomber.git
+git clone https://github.com/LogeshIPS/Sms-Bomber.git
 
 cd Sms-Bomber
 
@@ -61,5 +61,5 @@ optional arguments:
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](https://github.com/skp121/Sms-Bomber/blob/master/LICENSE)
+This project is licensed under the [GNU General Public License v3.0](https://github.com/LogeshIPS/Sms-Bomber/blob/master/LICENSE)
 
